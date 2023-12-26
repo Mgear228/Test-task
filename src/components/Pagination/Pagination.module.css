@@ -1,0 +1,21 @@
+.btnSection {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(251, 241, 230);
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.active {
+    background-color: red;
+}

@@ -1,0 +1,17 @@
+.sectionRow {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.rowCell {
+    display: flex;
+    flex-direction: column;
+}
+.textInput {
+    border: 1px solid black;
+    width: 100px;
+}
